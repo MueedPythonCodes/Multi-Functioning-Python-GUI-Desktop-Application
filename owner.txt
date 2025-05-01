@@ -1,1 +1,1 @@
-drmariam,123
+write_owner_name,write_login_password
