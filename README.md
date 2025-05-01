@@ -10,7 +10,7 @@ This section contains GUI Password Manager that contains the complete CRUD opera
 
 
 SECTION # 2:
-This section contains Bots. One is a E-Commerce Price Scraping and analysis Bot based on Web Scraping & Automation.
+This section contains Bots. One is a E-Commerce Price Scraping and Analysis Bot based on Web Scraping & Automation.
 And one is a Email Sending Bot based on Google Automation.
 
 
